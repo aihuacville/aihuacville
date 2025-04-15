@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a problem solver,reader,swimmer,runner. Want to be a surfer.
 
 <!--
 **aihuacville/aihuacville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
